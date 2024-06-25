@@ -74,3 +74,44 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🙏 Acknowledgements
 
 Special thanks to the contributors and the open-source community for their support.
+![Screenshot_20240625-172647](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/0683079e-4932-4b1b-ba87-da6b79bcb114)
+
+![Screenshot_20240625-172704](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/6cd1ad64-8eea-4a5f-9dec-b7c53dfa1536)
+
+![Screenshot_20240625-172624](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/c980b04c-44c8-4a27-8bb6-2790824e2031)
+
+![Screenshot_20240625-172635](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/3cd9b8ae-3403-43aa-a371-6c7fafd0bdc7)
+
+![Screenshot_20240625-172829](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/19ccfd1d-bac6-4ae8-96c2-d064cbca3c45)
+
+![Screenshot_20240625-172851](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/37e5c3f6-dfed-4215-a038-9ba9360be60e)
+
+![Screenshot_20240625-173110](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/392dbc9f-434c-4479-9c9c-bc94a02e56d8)
+
+![Screenshot_20240625-173137](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/0b30b522-7539-4913-83e4-ce891aecbb12)
+
+![Screenshot_20240625-175749](https://github.com/AMNAMAHAR/Real-Chat-with-firebase/assets/158574242/e6482138-2b8a-489d-a40b-0ae586d05320)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
